@@ -20,3 +20,6 @@ Improvements:
 - added static method createEmail in Email class
 - added class EmailDatabase
 - added command line user interface in EmailApp class.
+
+NOTE:
+Based on an idea for a project for beginner found on the internet.
